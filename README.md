@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Git Repository
-<br> author viraj
+<br> author viraj (khedekar)
